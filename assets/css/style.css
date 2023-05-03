@@ -1,0 +1,39 @@
+
+.loader{
+    margin: 0 auto;
+ }
+a.navbar-brand{
+    font-size: 2rem;
+    color: orange;
+    text-shadow: 0 0 5px blue, 0 0 5px blue, 0 0 5px blue;
+    transition: text-shadow 2s ease-in-out;
+    
+ }
+ .mainPrincipal{
+    width: 80%;
+    margin: 0 auto;
+ }
+.sectionAbout p{
+    width: 80%;
+    margin: 0 auto;
+}
+.sectionAbout h2{
+    text-align: center;
+    margin-bottom: 2rem;
+}
+.sectionService h2{
+    text-align: center;
+    margin-bottom: 2rem;
+}
+.sectionService ul{
+    width: 80%;
+    margin: 0 auto;
+}
+.sectionService ul li p{
+margin: 0 auto;
+}
+.card{
+    margin: 0 auto;
+    margin-bottom: 2rem;
+
+}
